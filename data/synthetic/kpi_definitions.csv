@@ -1,0 +1,35 @@
+kpi_name,department,description,unit,direction,target_value,warning_threshold,critical_threshold,business_owner,linked_financial_outcome,expected_lag_days
+Sales Conversion Rate,Sales,Percentage of qualified sales opportunities converted into paying customers,%,higher_is_better,4.5,3.5,2.8,VP Sales,revenue,0
+Average Order Value,Sales,Average revenue generated per transaction or signed contract,USD,higher_is_better,4200.0,3800.0,3400.0,VP Sales,revenue,0
+Sales Cycle Duration,Sales,Average number of days required to close a sales opportunity,Days,lower_is_better,45.0,55.0,65.0,VP Sales,revenue,30
+Sales Productivity,Sales,Average monthly revenue generated per quota-carrying sales representative,USD,higher_is_better,115000.0,95000.0,80000.0,Head of Sales Ops,revenue,0
+Lead-to-Customer Conversion,Sales,Percentage of inbound and outbound marketing leads converted to customers,%,higher_is_better,2.8,2.0,1.5,Head of Demand Gen,customer_count,30
+Customer Acquisition Cost,Marketing,Total sales and marketing expenditure divided by new customers acquired,USD,lower_is_better,1250.0,1600.0,1950.0,Chief Marketing Officer,operating_profit,30
+Return on Advertising Spend,Marketing,Gross revenue generated per dollar spent on digital and print advertising,x,higher_is_better,4.2,3.2,2.5,Director of Performance Mktg,revenue,30
+Cost per Lead,Marketing,Average advertising and campaign spend required to acquire a raw marketing lead,USD,lower_is_better,75.0,105.0,135.0,Head of Growth,operating_expenses,0
+Campaign Conversion Rate,Marketing,Percentage of campaign interactions that result in a high-intent marketing action,%,higher_is_better,5.2,4.0,3.0,Head of Growth,revenue,30
+Marketing-Qualified Leads,Marketing,Total monthly volume of leads meeting ICP scoring criteria,Count,higher_is_better,1800.0,1400.0,1100.0,VP Marketing,revenue,60
+Order Fulfillment Time,Operations,Average hours elapsed between order confirmation and final fulfillment/delivery dispatch,Hours,lower_is_better,24.0,32.0,44.0,Chief Operating Officer,operating_margin,0
+Capacity Utilization,Operations,Percentage of operational infrastructure and facility capacity actively utilized,%,target_range,82.0,68.0,55.0,VP Operations,operating_profit,0
+Cost per Order,Operations,Average direct operational handling and dispatch cost per fulfilled order,USD,lower_is_better,14.5,17.5,21.0,Director of Fulfillment,operating_margin,0
+Process Defect Rate,Operations,"Percentage of completed jobs, batches, or dispatches with quality defects",%,lower_is_better,1.2,2.2,3.5,Head of Quality Assurance,operating_margin,0
+Employee Productivity,Operations,Completed work units or transactions per labor hour worked,Units/Hr,higher_is_better,18.5,15.0,12.0,VP Operations,operating_profit,0
+Customer Satisfaction Score,Customer Service,Average satisfaction rating expressed on a normalized 0-100 scale,Score,higher_is_better,88.0,80.0,72.0,VP Customer Experience,customer_count,60
+Net Promoter Score,Customer Service,Industry-standard net promoter score measuring customer loyalty (-100 to +100),NPS,higher_is_better,52.0,40.0,28.0,VP Customer Experience,revenue,60
+First-Contact Resolution,Customer Service,Percentage of customer support inquiries resolved during the initial contact,%,higher_is_better,78.0,68.0,58.0,Head of Support Ops,operating_expenses,0
+Average Resolution Time,Customer Service,Average hours required to fully resolve a customer issue or complaint,Hours,lower_is_better,4.5,7.0,11.0,Head of Support Ops,operating_expenses,0
+Complaint Rate,Customer Service,"Formal customer complaints received per 1,000 completed orders",Per 1k,lower_is_better,4.0,7.5,12.0,Customer Success Director,revenue,30
+Inventory Turnover,Supply Chain,Annualized frequency with which inventory stock is completely cycled and sold,x/Year,higher_is_better,7.5,5.8,4.5,Head of Supply Chain,cash_flow,0
+Stockout Rate,Supply Chain,Percentage of customer orders that cannot be fulfilled immediately due to zero stock,%,lower_is_better,1.8,3.8,6.5,Inventory Manager,revenue,0
+Supplier Lead Time,Supply Chain,Average calendar days between procurement purchase order and warehouse receipt,Days,lower_is_better,21.0,30.0,42.0,Procurement Director,operating_profit,30
+On-Time Delivery,Supply Chain,Percentage of supplier and carrier shipments arriving on or before promise date,%,higher_is_better,96.0,91.0,84.0,Logistics Director,revenue,0
+Inventory Carrying Cost,Supply Chain,"Carrying, warehousing, and insurance cost expressed as percentage of inventory value",%,lower_is_better,14.0,18.0,22.0,Supply Chain Controller,operating_margin,0
+Employee Turnover,Human Resources,Annualized voluntary employee turnover percentage across business units,%,lower_is_better,8.5,12.5,17.0,Chief People Officer,operating_expenses,60
+Absenteeism,Human Resources,Percentage of scheduled work days lost due to unplanned employee absence,%,lower_is_better,2.4,4.0,5.8,VP HR Operations,operating_profit,0
+Overtime Hours,Human Resources,Overtime hours expressed as a percentage of total standard worked hours,%,lower_is_better,5.0,8.5,13.0,VP HR Operations,operating_margin,0
+Training Completion,Human Resources,Percentage of operational staff who completed mandatory certification and skill training,%,higher_is_better,92.0,82.0,70.0,Director of L&D,revenue_per_employee,60
+Revenue per Employee,Human Resources,Total company revenue divided by total full-time equivalent (FTE) headcount,USD,higher_is_better,310000.0,260000.0,220000.0,Chief People Officer,revenue,0
+Days Sales Outstanding,Finance,Average number of days required to collect invoice receivables from enterprise clients,Days,lower_is_better,42.0,52.0,65.0,Chief Financial Officer,cash_flow,30
+Working Capital Ratio,Finance,Ratio of current assets to current operational liabilities,x,target_range,1.75,1.35,1.1,VP Corporate Finance,cash_flow,0
+Budget Variance,Finance,Percentage variance between actual operating profit and budgeted operating profit,%,higher_is_better,2.5,-4.0,-10.0,VP FP&A,operating_profit,0
+Expense-to-Revenue Ratio,Finance,Total operating expenses divided by total generated revenue,%,lower_is_better,34.0,39.0,45.0,VP FP&A,operating_margin,0

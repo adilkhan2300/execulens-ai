@@ -1,0 +1,7 @@
+event_id,date,business_unit,event_type,description,affected_department,estimated_impact
+EVT-2024-001,2024-03-15,Enterprise Solutions,Pricing Optimization,Implemented 8% price increase across enterprise tier subscriptions,Sales,+$1.8M ARR with minimal churn
+EVT-2024-002,2024-07-10,Global Logistics,Supply Chain Disruption,Red Sea shipping diversions and European port congestion caused 14-day transit delays,Supply Chain,"+12 days supplier lead time, temporary stockouts"
+EVT-2024-003,2024-10-01,Cloud & Digital Services,Product Launch,General availability launch of GenAI Decision Assist add-on module,Marketing,"+22% MQL volume, +$2.4M new pipeline"
+EVT-2025-001,2025-02-15,Consumer Products,Marketing Campaign,Global multi-channel brand campaign launch across Americas and Europe,Marketing,"+35% website traffic, temporary surge in CAC"
+EVT-2025-002,2025-06-18,Enterprise Solutions,System Outage,Cloud hosting provider latency outage impacting customer API workflows for 4 hours,Customer Service,"Spike in complaint rate, $280K SLA credit provisions"
+EVT-2025-003,2025-09-01,Global Logistics,Warehouse Automation,Commissioned automated sorter robotics across 3 major distribution hubs,Operations,"-18% cost per order, +15% capacity utilization"
